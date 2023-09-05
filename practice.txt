@@ -1,0 +1,2 @@
+Its's phenomenon to copy the reference address from one object to another object.
+So, modification of one object is going to impact the values on other object.To overcome this shallow copy and deep are used

@@ -1,0 +1,7 @@
+Model-View-Controller
+popular way to internally logic,
+display of an application into separate components.
+Web frameworks including Ruby on Rails,
+Spring (Java),
+Laravel(PHP),
+ASP.NET (C#) and many others.
